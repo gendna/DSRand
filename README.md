@@ -16,13 +16,12 @@ Run simple simulation:
 ./rand 200 7 4
 </pre>
 
-Run simple simulation and visualize as a DNA sequence:
+Run simple simulation and visualize as a DNA sequence (inside src/ folder):
 <pre>
 ./rand 200 7 4 | tr 'abcd' 'ACGT'
 <pre>
 
-
-Run demo:
+Run proof of incompressibility from common data compressors (inside src/ folder):
 <pre>
 ./RunRand.sh 20000 11 2 
 </pre>
