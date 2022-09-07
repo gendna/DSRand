@@ -25,3 +25,5 @@ Run proof of incompressibility from common data compressors (inside src/ folder)
 <pre>
 ./RunRand.sh 20000 11 2 
 </pre>
+
+From the proof size of the compressed files we are able to notice that although a simple program created the sequence, the used data compressors are not able to efficiently minimize the sequence size without loss of information.
