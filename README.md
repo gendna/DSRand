@@ -19,7 +19,7 @@ Run simple simulation:
 Run simple simulation and visualize as a DNA sequence (inside src/ folder):
 <pre>
 ./rand 200 7 4 | tr 'abcd' 'ACGT'
-<pre>
+</pre>
 
 Run proof of incompressibility from common data compressors (inside src/ folder):
 <pre>
